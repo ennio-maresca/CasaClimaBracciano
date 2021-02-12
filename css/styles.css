@@ -82,6 +82,19 @@ p {
 
 /* Above The Fold */
 
+@media (min-width:1000px) {
+  .cta-menu {
+    position: absolute;
+    right: 18px;
+  }
+}
+
+@media (max-width: 500px) {
+  .brand-name {
+    font-size: 1rem;
+    padding: 0;
+  }
+
 .cta-heading {
   margin: 2rem 2rem 2rem 0;
 }
