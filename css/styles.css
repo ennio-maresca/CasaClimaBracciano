@@ -211,23 +211,6 @@ p {
 
 /* Footer */
 
-#footer {
-  text-align: center;
-}
-
-/* Set the size of the div element that contains the map */
 #map {
-  height: 400px;
-  /* The height is 400 pixels */
-  width: 100%;
-  /* The width is the width of the web page */
-}
 
-.footer-icon {
-  color:black;
-  padding: 0 15px;
-}
-
-.copyright {
-  margin-top: 10px;
 }
