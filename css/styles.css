@@ -183,6 +183,10 @@ p {
   box-shadow: none;
 }
 
+.close {
+  font-size: 2rem;
+}
+
 /* CTA */
 
 .cta-head {
