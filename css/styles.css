@@ -149,6 +149,15 @@ p {
 
 /* Appartament prices */
 
+.container-price {
+  margin: 0;
+  padding: 0;
+}
+
+.card-body {
+  padding: 0;
+}
+
 .card-header {
   text-align: center;
 }
