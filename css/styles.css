@@ -128,6 +128,7 @@ p {
 
 /* Testimonial Corousel */
 .heading-testimonial {
+  color:#fff;
   text-align: center;
   padding: 3rem 0;
 }
@@ -140,6 +141,10 @@ p {
   border-radius: 100%;
   margin: 4rem 0 0;
   text-align: center;
+}
+
+.testimonial-text {
+  color:#fff;
 }
 
 .name-testimonial {
@@ -190,6 +195,7 @@ p {
 /* CTA */
 
 .cta-head {
+  color: #fff;
   text-align: center;
   padding: 5%;
 }
@@ -219,10 +225,4 @@ p {
     left: 0;
     right: 0;
     bottom: 0;
-}
-
-/* Footer */
-
-#map {
-  width: 40%;
 }
