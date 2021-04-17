@@ -223,6 +223,7 @@ p {
 }
 
 .logo-special {
+  position: relative;
   top: 50%;
   bottom: 50%;
 }
