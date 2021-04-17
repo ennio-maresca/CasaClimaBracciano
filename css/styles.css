@@ -222,6 +222,12 @@ p {
   text-align: center;
 }
 
+.logo-special {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
 .logo-fornitore {
   width: 50%;
     margin: auto;
