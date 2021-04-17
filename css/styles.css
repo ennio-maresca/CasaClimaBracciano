@@ -197,6 +197,10 @@ p {
 
 /* CTA */
 
+.cta-text {
+  color: #fff;
+}
+
 .cta-head {
   color: #fff;
   text-align: center;
