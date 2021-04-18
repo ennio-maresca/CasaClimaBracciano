@@ -13,7 +13,8 @@ h2 {
 }
 
 h3{
-    text-shadow: 2px 2px 4px #fff;
+  color: #fff;
+  text-shadow: 2px 2px 4px #000;
 }
 
 p {
