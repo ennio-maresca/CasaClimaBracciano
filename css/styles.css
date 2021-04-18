@@ -4,7 +4,8 @@ body {
 }
 
 h1 {
-  color: #00662c;
+  color: #fff;
+  text-shadow: 2px 2px 4px #000;
   font-size: 2.2rem;
 }
 
@@ -13,8 +14,7 @@ h2 {
 }
 
 h3{
-  color: #fff;
-  text-shadow: 2px 2px 4px #000;
+  color: #00662c;
 }
 
 p {
