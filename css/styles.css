@@ -198,22 +198,10 @@ p {
 
 /* CTA */
 
-.cta-text {
-  padding: 5%;
-  text-align: center;
-  color: #fff;
-}
-
 .cta-head {
   color: #fff;
   text-align: center;
   padding: 5%;
-}
-
-.col-text {
-  color: #fff;
-  padding-top: 5%;
-  text-align: center;
 }
 
 .cta-body {
