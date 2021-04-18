@@ -160,11 +160,12 @@ p {
 }
 
 .card-body {
-  padding: 0;
+  padding-left: 2.5%;
 }
 
 .card-header {
   text-align: center;
+    padding-left: 2.5%;
 }
 
 .card-appartamento {
